@@ -1,3 +1,7 @@
 updated in git
 second update in git
+<<<<<<< HEAD
 third update in git
+=======
+fourth update in git
+>>>>>>> cac40211a07abfef3e5222cf8728aa352fe7e130
